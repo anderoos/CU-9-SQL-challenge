@@ -7,7 +7,7 @@ Using APIs and JSON traversals to answer the question: How does the weather chan
 ## Approaches and Resources
 #### Data Modeling
 * Used pgAdmin4's ERD tool to visualize database files.
-![ERD-table](https://github.com/anderoos/CU-9-SQL-challenge/blob/main/images/mod9_ERD.png)
+![ERD-table](https://github.com/anderoos/CU-9-SQL-challenge/blob/main/images/mod9_ERD_datagrip.png)
 
 #### Data engineering
 * After creating the ERD visualization, working from outside-in, identified primary and foreign keys to generate SQL tables.
